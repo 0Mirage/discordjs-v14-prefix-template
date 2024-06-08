@@ -1,0 +1,16 @@
+{
+  "name": "discordjs-v14-prefix-template",
+  "version": "1.0.0",
+  "description": "Discord bot template in v14 to speed up bot creation productivity with prefix support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}
